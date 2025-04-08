@@ -56,3 +56,6 @@ http://localhost:8082/swagger-ui/index.html
 App: http://localhost:8082
 
 MySQL: jdbc:mysql://localhost:3308/cartdb
+
+## Git
+https://github.com/jorgepontilho/postech-java-tc5-ms-shopping-cart
